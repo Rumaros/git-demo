@@ -2,9 +2,6 @@
 
 this is the first file in this repo
 
-## Ipsum Below
+## Webiste contents
 
-Ipsum muspI
-
-
-## wiecej
+index.html
